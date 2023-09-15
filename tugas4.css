@@ -1,0 +1,137 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 0px auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    padding: 20px;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.gambar {
+    width: 50%;
+    margin-right: 0px;
+}
+
+.ig {
+    width: 80%;
+    margin-left: 40px;
+}
+
+.logo-ig {
+    width: 180px;
+    height: 70px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.form {
+    border: #c4c4c4 1px solid;
+    text-align: center;
+    background-color: white;
+    width: 37%;
+    height: 350px;
+    margin-left: 0px;
+    margin-top: 30px;
+}
+
+.input {
+    width: 230px;
+    height: 20px;
+    margin-top: 24px;
+    border: 1px solid #c4c4c4;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.password {
+    width: 230px;
+    height: 20px;
+    margin-top: 5px;
+    border: 1px solid #c4c4c4;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.button {
+    width: 242px;
+    height: 30px;
+    margin-top: 15px;
+    background-color: #4cb5f9;
+    border: solid transparent;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.button:hover {
+    background-color: #0095f6;
+    cursor: pointer;
+}
+
+.garis-or {
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    color: #8a8a8a;
+}
+
+/* a {
+    font-size: 12px;
+} */
+.fb {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.logo-fb {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.dont {
+    margin-top: 35px;
+    padding: 0;
+    margin-left: -1px;
+    width: 296px;
+    height: 45px;
+    border: 1px solid #c4c4c4;
+}
+
+.logo-bawah {
+    width: 250px;
+    margin-top: 0px;
+}
+
+.list-bawah {
+    justify-content: center;
+    list-style: none;
+    display: flex;
+}
+
+ul li {
+    padding: 0;
+    margin-right: 8px;
+    margin-left: 8px;
+    font-size: 11px;
+    color: #8a8a8a;
+}
+
+footer {
+    text-align: center;
+    font-size: 11px;
+    color: #8a8a8a;
+    margin-bottom: 50px;
+}
